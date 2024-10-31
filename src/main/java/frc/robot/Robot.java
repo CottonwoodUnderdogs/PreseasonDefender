@@ -26,6 +26,8 @@ public class Robot extends TimedRobot {
   private Joystick m_rightStick;
   private XboxController controller; 
   private Climber Climby;
+
+  // cole was here
  
   //private MotorType MyMotor = new kBrushless();
 
